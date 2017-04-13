@@ -3,6 +3,9 @@
 ### TampaIoT.TankBot.Core
 Provides core data strucutres, models and interfaces that a TankBot implementation must implement.
 
+### TampaIoT.TankBot.Cloud
+Provides a mechanism to interface with Cloud Services, Specifically Azure IoT Hub.
+
 ### TampaIoT.TankBot.UWP.Core
 Provides shared functionalty used by the Desktop/Tablet/Phone app and Windows 10 IoT Core Rapberry Pi Firmware
 
